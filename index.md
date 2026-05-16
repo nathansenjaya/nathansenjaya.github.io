@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<div style="float: right; text-align: center; margin: 0px 20 20 35px;">
+<div style="float: right; text-align: center; margin: -50px auto 0 auto;">
     <img class="profile-picture" src="Nathanael_Senjaya.png">
     <br><br>
     <a href="mailto:senjayanathanael@korea.ac.kr">
