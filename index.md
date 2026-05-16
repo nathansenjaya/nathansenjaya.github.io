@@ -6,8 +6,8 @@ layout: default
 
 <img class="profile-picture" src="Nathanael_Senjaya.png">
 
-Hi! I am a Master Student in the Department of Artificial Intelligence at Korea University, where I am a member of [Speech and Language Processing Lab (SLP Lab)](https://slpl.korea.ac.kr/home/) under the supervision of [Prof. Chanwoo Kim](https://chanwcom.github.io/).
-<br>
+Hi! I am a Master Student in the Department of Artificial Intelligence at Korea University, where I am a member of [Speech and Language Processing Lab](https://slpl.korea.ac.kr/home/) under the supervision of [Prof. Chanwoo Kim](https://chanwcom.github.io/).
+<br><br>
 I graduated with a Bachelor in Electrical Engineering from National Taiwan Normal University (國立臺灣師範大學), Taiwan.
 
 ## Research Interest
