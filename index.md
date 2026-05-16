@@ -13,6 +13,7 @@ I graduated with a Bachelor in Electrical Engineering from National Taiwan Norma
 ## Research Interest
 
 My research interest lies in **Speech Processing** and **Natural Language Processing**, with a focus in **Large Language Models** and **Emotion-Centric AI**. Particularly in exploring how machine can better understand human emotion through speech and language in an efficient manner.
+<br>
 
 ## Publications
  -
@@ -43,3 +44,9 @@ This project deals with the data-driven approach of machine learning for anxiety
 <a href="https://drive.google.com/file/d/1SL5xk2pKTu0iQOiZCiosZAJgctIw_Jnc/view?usp=sharing" target="_blank">
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="#466365"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm-1 1.5L18.5 9H13V3.5zM6 20V4h5v7h7v9H6z"/></svg>
 </a>
+
+<br>
+##Contact
+* Email: [senjayanathanael@korea.ac.kr](mailto:senjayanathanael@korea.ac.kr) [senjayanathanael@gmail.com](mailto:senjayanathanael@gmail.com)
+
+* Phone: [+8210-6610-3307](tel:+8210-6610-3307)
