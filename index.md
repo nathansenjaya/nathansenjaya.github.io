@@ -6,11 +6,13 @@ layout: default
 
 <img class="profile-picture" src="Nathanael_Senjaya.png">
 
-Hi! I am currently a Master Student in Korea University's Department of Artificial Intelligence, South Korea. I graduated with a Bachelor in Electrical Engineering from National Taiwan Normal University (國立臺灣師範大學), Taiwan.
+Hi! I am a Master Student in the Department of Artificial Intelligence at Korea University, where I am a member of [Speech and Language Processing Lab (SLP Lab)](https://slpl.korea.ac.kr/home/) under the supervision of [Prof. Chanwoo Kim](https://chanwcom.github.io/).
+<br>
+I graduated with a Bachelor in Electrical Engineering from National Taiwan Normal University (國立臺灣師範大學), Taiwan.
 
 ## Research Interest
 
-My research interest lies in Speech Processing and Natural Language Processing.
+My research interest lies in **Speech Processing** and **Natural Language Processing**, with a focus in **Large Language Models** and **Emotion-Centric AI**. Particularly in exploring how machine can better understand human emotion through speech and language in an efficient manner.
 
 ## Publications
  -
@@ -41,23 +43,3 @@ This project deals with the data-driven approach of machine learning for anxiety
 <a href="https://drive.google.com/file/d/1SL5xk2pKTu0iQOiZCiosZAJgctIw_Jnc/view?usp=sharing" target="_blank">
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="#466365"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm-1 1.5L18.5 9H13V3.5zM6 20V4h5v7h7v9H6z"/></svg>
 </a>
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
