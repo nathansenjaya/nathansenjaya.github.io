@@ -10,10 +10,15 @@ Hi! I am currently a Master Student in Korea University's Department of Artifici
 
 ## Research Interest
 
-My researh interest lies in Speech Processing and Natural Language Processing.
+My research interest lies in Speech Processing and Natural Language Processing.
 
 ## Publications
  -
+
+## Research Project
+**Document Retrieval via Context-Structured Keyword Augmentation and LLM-Based Question Generation**
+This project adresses a lightweight query reformulation framework for improved document retrieval using Large Language Model. This project was conducted as a volunteer in Academia Sinica Research Center for Information Technology under Professor Chuan-Ju Wang.
+[View on GitHub](https://github.com/nathansenjaya/qe_llm_retrieval)
 
 ## Typography
 
