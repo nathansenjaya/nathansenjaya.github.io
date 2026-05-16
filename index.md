@@ -16,8 +16,8 @@ My research interest lies in Speech Processing and Natural Language Processing.
  -
 
 ## Research Project
-**Document Retrieval via Context-Structured Keyword Augmentation and LLM-Based Question Generation**
-This project adresses a lightweight query reformulation framework for improved document retrieval using Large Language Model. This project was conducted as a volunteer in Academia Sinica Research Center for Information Technology under Professor Chuan-Ju Wang.
+**Document Retrieval via Context-Structured Keyword Augmentation and LLM-Based Question Generation**<br>
+This project adresses a lightweight query reformulation framework for improved document retrieval using Large Language Model. This project was conducted as a volunteer in Academia Sinica Research Center for Information Technology under Professor [Chuan-Ju Wang](http://cfda.csie.org/~cjwang/)
 <br>
 <a href="https://github.com/nathansenjaya/qe_llm_retrieval" target="_blank">
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="black">
