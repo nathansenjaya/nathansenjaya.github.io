@@ -3,24 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [senjayanathanael@korea.ac.kr](mailto:senjayanathanael@korea.ac.kr) [senjayanathanael@gmail.com](mailto:senjayanathanael@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+8210-6610-3307](tel:+8210-6610-3307)
 
 ---
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
