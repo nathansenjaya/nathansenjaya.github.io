@@ -4,13 +4,13 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="Nathanael_senjaya.png">
+<img class="profile-picture" src="Nathanael_Senjaya.png">
 
 Hi! I am currently a Master Student in Korea University's Department of Artificial Intelligence, South Korea. I graduated with a Bachelor in Electrical Engineering from National Taiwan Normal University (國立臺灣師範大學), Taiwan.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My researh interest lies in Speech Processing and Natural Language Processing.
 
 ## Publications
  -
